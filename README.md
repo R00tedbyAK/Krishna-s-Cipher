@@ -1,8 +1,8 @@
-# VishuLeela
+# Krishna's Cipher
 
 **Type:** Forensics / Steganography  
 **Difficulty:** Medium  
-**Flag Format:** `VISHU{[a-f0-9]{32}}`
+**Flag Format:** `FLAG{[a-f0-9]{32}}`
 
 ## Description
 
