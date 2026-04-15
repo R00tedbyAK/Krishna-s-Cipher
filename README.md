@@ -33,4 +33,4 @@ Submit the flag in the format `FLAG{32_char_hex}`.
 
 ---
 
-**Good luck, investigator.**
+**Good luck, investigator**
